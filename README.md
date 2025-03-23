@@ -11,3 +11,6 @@ Different CPU scheduling algorithms have unique properties, and choosing the rig
 - **Multiple Scheduling Algorithms**: Simulates various CPU scheduling algorithms such as FCFS, SJN, RR, and more.
 - **Detailed Output**: Displays the order of process execution, waiting time, turnaround time.
 - **Custom Data Structures**: Tailored data structures for managing processes and scheduling tasks.
+## Acknowledgements
+ 
+- Special thanks to the developers of the Java programming language for providing the necessary tools and frameworks.
